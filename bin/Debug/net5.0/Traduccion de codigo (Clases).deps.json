@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Traduccion de codigo (Clases)/1.0.0": {
+        "runtime": {
+          "Traduccion de codigo (Clases).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Traduccion de codigo (Clases)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
